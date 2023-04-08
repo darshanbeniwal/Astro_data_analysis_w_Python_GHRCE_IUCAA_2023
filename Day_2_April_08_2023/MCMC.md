@@ -87,5 +87,21 @@ print("Execution time with steps=%s------> %6.3f seconds" %
 print("----------------------------------------------------------------------\n")
 ```
 
+```python
+# Plot the traceplots of the MCMC chains
+fig, axes = plt.subplots(2, 1, figsize=(8, 8))
+samples = samples_MH.T
 
+# Plot the traceplot of H0
+axes[0].plot(samples[0], "g", alpha=0.8)
+axes[0].set_ylabel("$H_0$")
+
+# Plot the traceplot of Om
+axes[1].plot(samples[1], "r", alpha=0.8)
+axes[1].set_ylabel("$\Omega_{m0}$")
+
+plt.tight_layout()
+# plt.savefig("FLCDM_H_31_MH_traces.png")
+plt.show()
+```
 
