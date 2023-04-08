@@ -52,7 +52,40 @@ nburn_in=100
 
 initials=h0_ini,om_ini
 ```
+```python
+start_time = time.time()
 
+
+#Define Metropolis-Hastings Function
+def Metropolis_Hastings(parameter_init, iteration_time):
+    result = []
+    result.append(parameter_init)
+    for t in range(iteration_time):
+        step_var = [1, 0.01]
+        proposal = np.zeros(2)
+        for i in range(2):
+            proposal[i] = norm.rvs(loc=result[-1][i], scale=step_var[i])
+            probability = np.exp(posterior(proposal,x,y,yerr) - posterior(result[-1],x,y,yerr))
+            if (uniform.rvs() < probability):
+                result.append(proposal)
+            else:
+                result.append(result[-1]) 
+    return (result)
+
+result = Metropolis_Hastings(initials, nsteps)
+
+result = result[nburn_in:]
+a_result = np.zeros(nburn_in)
+b_result = np.zeros(nburn_in)
+samples_MH=np.array(result)
+h0_mcmc, om_mcmc = map(lambda v: (v[1], v[2]-v[1], v[1]-v[0]),zip(*np.percentile(samples_MH,
+                       [16, 50, 84],axis=0)))
+
+print("----------------------------------------------------------------------\n")
+print("Execution time with steps=%s------> %6.3f seconds" % 
+      (nsteps,(time.time() - start_time)))
+print("----------------------------------------------------------------------\n")
+```
 
 
 
