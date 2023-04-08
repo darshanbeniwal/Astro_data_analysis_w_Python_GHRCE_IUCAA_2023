@@ -27,3 +27,19 @@ def likelihood(theta, x, y, yerr):
     inv_sigma2 = 1.0/(yerr**2)
     return -0.5*(np.sum((y-model)**2*inv_sigma2 - np.log(6.28*inv_sigma2)))
 ```    
+
+```python
+#Define Prior Function
+def prior(theta):
+    h0, om= theta
+    if 0.0< h0 < 100.0 and 0.0 < om < 1.0:
+        return 0.0
+    return -np.inf
+    
+#Degine Posterior Function
+def posterior(theta, x, y, yerr):
+    lp = prior(theta)
+    if not np.isfinite(lp):
+        return -np.inf
+    return (lp + likelihood(theta, x, y, yerr))
+```
