@@ -43,3 +43,16 @@ def posterior(theta, x, y, yerr):
         return -np.inf
     return (lp + likelihood(theta, x, y, yerr))
 ```
+
+```python
+#Define number of parameter, steps, burn-in phase
+ndim=2
+nsteps=10000
+nburn_in=100
+
+initials=h0_ini,om_ini
+```
+
+
+
+
