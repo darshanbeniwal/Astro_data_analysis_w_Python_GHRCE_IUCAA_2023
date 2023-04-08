@@ -111,3 +111,14 @@ print("""MCMC result:
     Om = {2[0]} +{2[1]} -{2[2]}
 """.format(h0_mcmc, h0_ini, om_mcmc, om_ini))
 ```
+
+```python
+fig = corner.corner(samples_MH,bins=50,color="b",labels=["$H_0$","$\Omega_{m0}$"],
+                    truths=[h0_mcmc[0],om_mcmc[0]],fill_contours=True,
+                    levels=(0.68,0.95,0.99,),
+                    quantiles=[0.16, 0.5, 0.84],title_fmt='.3f',plot_datapoints=False,smooth=True, 
+                    smooth1d=True,show_titles=True)
+#fig.savefig("FLCDM_H_31_MH.png")
+
+```
+
