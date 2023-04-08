@@ -12,3 +12,4 @@
 - Copy the link to the Jupyter Notebook that you want to download.  
 - Go to DownGit, paste the link in the provided field, and hit "[DownGit](https://minhaskamal.github.io/DownGit/#/home)".  
 - The file will be downloaded to your computer for you to use.
+ 
