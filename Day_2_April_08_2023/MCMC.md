@@ -105,3 +105,9 @@ plt.tight_layout()
 plt.show()
 ```
 
+```python
+print("""MCMC result:
+    H0 = {0[0]} +{0[1]} -{0[2]}
+    Om = {2[0]} +{2[1]} -{2[2]}
+""".format(h0_mcmc, h0_ini, om_mcmc, om_ini))
+```
