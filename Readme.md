@@ -1,6 +1,6 @@
 ## [Two Days Workshop on Python Programming in Astronomy, Astrophysics & Cosmology](https://ghrce.raisoni.net/python-workshop/index.php)  
 ### Organized by Department of Applied Science, G H Raisoni College of Engineering, Nagpur   
-### Funded by Inter-University Centre for Astronomy and Astrophysics (IUCAA)
+### Funded by Inter-University Centre for Astronomy and Astrophysics ([IUCAA](https://www.iucaa.in/en/))
 
 
 I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Hasan, and in this repository, I have included all the files, including the data file and Python notebook, that were covered by me during two lecture sessions and four hands-on sessions.
