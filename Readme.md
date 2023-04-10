@@ -5,7 +5,7 @@
 
 I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Hasan, and in this repository, I have included all the files, including the data file and Python notebook, that were covered by me during two lecture sessions and four hands-on sessions.
 
-## Day-1. April 07th 2023
+## Day-1. April 07th 2023; [GitHub-Folder](https://github.com/darshanbeniwal/Astro_data_analysis_w_Python_GHRCE_IUCAA_2023/tree/main/Day_1_April_07_2023)
 
 * **Lecture-1**
   * Introduction to Statistics  
@@ -25,7 +25,7 @@ I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Has
   * Estimate the value of $\pi$ using Monte Carlo simulation, by considering a sphere inscribed inside a cube.
 
 
-## Day-2. April 08th 2023 
+## Day-2. April 08th 2023; [GitHub-Folder](https://github.com/darshanbeniwal/Astro_data_analysis_w_Python_GHRCE_IUCAA_2023/tree/main/Day_2_April_08_2023)
 
 * **Lecture-2**
   * Bayesian Statistics  
