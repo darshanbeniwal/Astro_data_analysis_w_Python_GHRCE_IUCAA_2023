@@ -52,7 +52,7 @@ I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Has
   * Data Reduction and Error Analysis for the Physical Sciences by P. R. Bevington and D. K. Robinson [Link](https://aip.scitation.org/doi/abs/10.1063/1.4823194)
 
 * **Statistical Cosmology**
-  * Statistical methods in cosmology by L. Verde; arXiv:[0911.3105](https://arxiv.org/pdf/0911.3105.pdf]
+  * Statistical methods in cosmology by L. Verde; arXiv:[0911.3105](https://arxiv.org/pdf/0911.3105.pdf)
   * Statistical methods for cosmological parameter selection and estimation by A. R. Liddle; arXiv:[0903.4210](https://arxiv.org/pdf/0903.4210.pdf)
   * Bayesian Methods in Cosmology by R. Trotta; arXiv:[1701.01467](https://arxiv.org/pdf/1701.01467.pdf)
 
