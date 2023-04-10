@@ -47,9 +47,9 @@ I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Has
 
 ## References for Further Reading
 * **Basics of Statistics**
-  * Introduction To Error Analysis by J. R. Taylor [Link](https://www.amazon.in/Introduction-Error-Analysis-Uncertainties-Measurements/dp/093570275X)
-  * Data analysis: a Bayesian tutorial by Devinderjit Sivia and John Skilling [Link](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=in&lang=en&)
-  * Data Reduction and Error Analysis for the Physical Sciences by P. R. Bevington and D. K. Robinson [Link](https://aip.scitation.org/doi/abs/10.1063/1.4823194)
+  * Introduction To Error Analysis by J. R. Taylor [🔗](https://www.amazon.in/Introduction-Error-Analysis-Uncertainties-Measurements/dp/093570275X)
+  * Data analysis: a Bayesian tutorial by Devinderjit Sivia and John Skilling [🔗](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=in&lang=en&)
+  * Data Reduction and Error Analysis for the Physical Sciences by P. R. Bevington and D. K. Robinson [🔗](https://aip.scitation.org/doi/abs/10.1063/1.4823194)
 
 * **Statistical Cosmology**
   * Statistical methods in cosmology by L. Verde; arXiv:[0911.3105](https://arxiv.org/pdf/0911.3105.pdf)
