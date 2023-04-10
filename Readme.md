@@ -38,3 +38,13 @@ I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Has
   * Flat $\Lambda CDM$ Model fitting with Hubble Parameter Measurements using Metropolis-Hastings Algorithm
   * Non-Flat $\Lambda CDM$ Model fitting with Hubble Parameter Measurements using Metropolis-Hastings Algorithm
 
+## References for Further Reading
+* Statistics
+  * Data analysis: a Bayesian tutorial by Devinderjit Sivia and John Skilling [Link](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=in&lang=en&)
+  * Data Reduction and Error Analysis for the Physical Sciences by P. R. Bevington and D. K. Robinson [Link](https://aip.scitation.org/doi/abs/10.1063/1.4823194)
+
+ 
+
+
+
+
