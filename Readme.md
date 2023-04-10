@@ -1,5 +1,5 @@
 ## [Two Days Workshop on Python Programming in Astronomy, Astrophysics & Cosmology](https://ghrce.raisoni.net/python-workshop/index.php)  
-### Organized by Department of Applied Science, G H Raisoni College of Engineering [GHRCE](https://ghrce.raisoni.net/python-workshop/index.php), Nagpur    
+### Organized by Department of Applied Science, G H Raisoni College of Engineering, [GHRCE](https://ghrce.raisoni.net/python-workshop/index.php), Nagpur    
 ### Funded by Inter-University Centre for Astronomy and Astrophysics ([IUCAA](https://www.iucaa.in/en/))
 
 
