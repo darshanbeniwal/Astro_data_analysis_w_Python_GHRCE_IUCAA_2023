@@ -1,24 +1,21 @@
- 
-## Day-2. April 08th 2023 
+## Day-1. April 07th 2023
 
-* **Lecture-2**
-  * Bayesian Statistics  
-  * Monte Carlo  
-  * Markov Chain Monte Carlo  
-  * Metropolis-Hastings Algorithm 
+* **Lecture-1**
+  * Introduction to Statistics  
+  * Maximum Likelihood Estimator (MLE)  
+  * Minimum Chi-square Test 
 
 
-* **Hands-on Session-3**
-  * $\pi$ Value Estimation using Monte Carlo
-  * Integration Evaluation using Monte Carlo
+* **Hands-on Session-1**
+  * Linear Model Fitting with Mock Data Using Basic Code: A Tutorial
+  * Linear Model Fitting with Mock Data Using [lmfit](https://pypi.org/project/lmfit/)
 
-* **Hands-on Session-4**
-  * Flat $\Lambda CDM$ Model fitting with Hubble Parameter Measurements using Metropolis-Hastings Algorithm
-  * Non-Flat $\Lambda CDM$ Model fitting with Hubble Parameter Measurements using Metropolis-Hastings Algorithm
 
-* **Exercise-2**
-  * Fit $\omega CDM$ Model with Hubble Parameter Measurements and compare your results with arXiv:[2209.05782](https://arxiv.org/pdf/2209.05782.pdf) 
+* **Hands-on Session-2**
+  * Flat $\Lambda CDM$ Model fitting with Hubble Parameter Measurements using [lmfit](https://pypi.org/project/lmfit/)
 
+* **Exercise-1**
+  * Estimate the value of $\pi$ using Monte Carlo simulation, by considering a sphere inscribed inside a cube.
 
 ### **1.** If you want to use these Jupyter Notebooks, please follow these instructions:  
 - First, click on the Jupyter notebook that you would like to work on.  
