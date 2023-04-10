@@ -57,6 +57,9 @@ I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Has
   * Bayesian Methods in Cosmology by R. Trotta; arXiv:[1701.01467](https://arxiv.org/pdf/1701.01467.pdf)
 
  
+ # Copyright  
+ © Darshan Kumar Beniwal, University of Delhi, 2023, Presented at Department of Applied Science, G H Raisoni College of Engineering, Nagpur.
+ 
 
  
 
