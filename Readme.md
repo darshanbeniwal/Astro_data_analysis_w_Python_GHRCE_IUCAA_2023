@@ -3,7 +3,7 @@
 ### Funded by Inter-University Centre for Astronomy and Astrophysics ([IUCAA](https://www.iucaa.in/en/))
 
 
-I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Hasan, and in this repository, I have included all the files, including the data file and Python notebook, that were covered by me during two lecture sessions and four hands-on sessions.
+I was among the invited speakers, along with [Prof S. N. Hasan](https://manuu.edu.in/University/SOS/Maths/People/778) and [Prof Priya Hasan](https://manuu.edu.in/University/SOS/Physics/People/816), and in this repository, I have included all the files, including the data file and Python notebook, that were covered by me during two lecture sessions and four hands-on sessions.
 
 ## Day-1. April 07th 2023; [🔗](https://github.com/darshanbeniwal/Astro_data_analysis_w_Python_GHRCE_IUCAA_2023/tree/main/Day_1_April_07_2023)
 
@@ -52,9 +52,9 @@ I was among the invited speakers, along with Prof S. N. Hasan and Prof Priya Has
   * Data Reduction and Error Analysis for the Physical Sciences by P. R. Bevington and D. K. Robinson [🔗](https://aip.scitation.org/doi/abs/10.1063/1.4823194)
 
 * **Statistical Cosmology**
-  * Statistical methods in cosmology by L. Verde; arXiv:[0911.3105](https://arxiv.org/pdf/0911.3105.pdf)
-  * Statistical methods for cosmological parameter selection and estimation by A. R. Liddle; arXiv:[0903.4210](https://arxiv.org/pdf/0903.4210.pdf)
-  * Bayesian Methods in Cosmology by R. Trotta; arXiv:[1701.01467](https://arxiv.org/pdf/1701.01467.pdf)
+  * Statistical methods in cosmology by L. Verde [🔗](https://arxiv.org/pdf/0911.3105.pdf)
+  * Statistical methods for cosmological parameter selection and estimation by A. R. Liddle [🔗](https://arxiv.org/pdf/0903.4210.pdf)
+  * Bayesian Methods in Cosmology by R. Trotta [🔗](https://arxiv.org/pdf/1701.01467.pdf)
 
  
  ## Contact Email: darshanbeniwal11@gmail.com
