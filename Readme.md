@@ -3,7 +3,7 @@
 ### Funded by Inter-University Centre for Astronomy and Astrophysics ([IUCAA](https://www.iucaa.in/en/))
 
 
-I was among the invited speakers, along with [Prof S. N. Hasan](https://manuu.edu.in/University/SOS/Maths/People/778) and [Prof Priya Hasan](https://manuu.edu.in/University/SOS/Physics/People/816), and in this repository, I have included all the files, including the data file and Python notebook, that were covered by me during two lecture sessions and four hands-on sessions.
+I was among the invited speakers, along with [Prof S. N. Hasan](https://manuu.edu.in/University/SOS/Maths/People/778) and [Prof Priya Hasan](https://manuu.edu.in/University/SOS/Physics/People/816), and in this repository, I have included all the files, including the data file and Python notebook, that were covered in two lecture sessions and four hands-on sessions by me.
 
 ## Day-1. April 07th 2023; [🔗](https://github.com/darshanbeniwal/Astro_data_analysis_w_Python_GHRCE_IUCAA_2023/tree/main/Day_1_April_07_2023)
 
